@@ -5,6 +5,14 @@ package com.ubb.ppp.calculator;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("test");
+        CliExecutor executor = new CliExecutor();
+
+        executor.addCommand(new AddCommand());
+        executor.addCommand(new SubtractCommand());
+        executor.addCommand(new MultiplyCommand());
+        executor.addCommand(new DivideCommand());
+        executor.addCommand(new ExitCommand());
+
+        executor.execute();
     }
 }
