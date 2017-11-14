@@ -1,0 +1,2 @@
+# maven-samples
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d2ba130de8b34f139ace3d28e7f1c59f)](https://www.codacy.com/app/mariusadam/maven-samples?utm_source=github.com&utm_medium=referral&utm_content=mariusadam/maven-samples&utm_campaign=badger)
