@@ -23,14 +23,20 @@ public class CliExecutor {
         while (true) {
             System.out.println("Menu: ");
             commands.forEach((s, c) -> System.out.printf("    - %s %s%n", s, c.getDescription()));
-            System.out.print("Your pick ? ");
-            String cmdKey = scanner.nextLine();
+            System.out.println("Your pick ? ");
+            String cmdKey = scanner.next();
             Command cmd = commands.get(cmdKey);
             if (cmd == null) {
                 System.err.printf("Unknown option '%s'%n", cmdKey);
                 continue;
             }
-            cmd.execute(scanner, System.out);
+            String a = scanner.next();
+            String b = scanner.next();
+            try {
+                System.out.println(String.format("a %s b = %s", cmdKey, cmd.execute(a, b)));
+            } catch (Exception e) {
+                System.err.printf("%s -> %s%n", e.getClass().getSimpleName(), e.getMessage());
+            }
         }
     }
 }

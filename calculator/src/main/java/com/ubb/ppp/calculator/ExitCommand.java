@@ -17,8 +17,8 @@ public class ExitCommand implements Command {
         return null;
     }
 
-    @Override
-    public void execute(Scanner scanner, PrintStream out) {
+    public String execute(String left, String right) {
         System.exit(0);
+        return "";
     }
 }

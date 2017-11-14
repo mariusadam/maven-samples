@@ -9,5 +9,5 @@ import java.util.Scanner;
 public interface Command {
     String getKey();
     String getDescription();
-    void execute(Scanner scanner, PrintStream out);
+    String execute(String left, String right);
 }

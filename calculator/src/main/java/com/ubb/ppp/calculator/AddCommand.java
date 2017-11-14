@@ -18,13 +18,7 @@ public class AddCommand implements Command {
     }
 
     @Override
-    public void execute(Scanner scanner, PrintStream out) {
-        Double a, b;
-        out.print("a=");
-        a = scanner.nextDouble();
-        out.print("b=");
-        b = scanner.nextDouble();
-
-        System.out.println("The sum is: " + Double.toString(a + b));
+    public String execute(String left, String right) {
+        return ((Double)(Double.parseDouble(left) + Double.parseDouble(right))).toString();
     }
 }
