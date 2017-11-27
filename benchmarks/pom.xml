@@ -29,11 +29,13 @@ questions.
         <artifactId>train</artifactId>
         <groupId>com.tora</groupId>
         <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>benchmarks</artifactId>
     <packaging>jar</packaging>
+
 
     <name>Auto-generated JMH benchmark</name>
 
@@ -52,6 +54,11 @@ questions.
             <artifactId>jmh-generator-annprocess</artifactId>
             <version>${jmh.version}</version>
             <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.tora</groupId>
+            <artifactId>repository</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 

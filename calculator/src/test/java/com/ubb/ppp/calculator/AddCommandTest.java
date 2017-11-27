@@ -1,9 +1,6 @@
 package com.ubb.ppp.calculator;
 
-import com.ubb.ppp.calculator.AddCommand;
-import com.ubb.ppp.calculator.Command;
-
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class AddCommandTest {
     @org.junit.Test

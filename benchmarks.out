@@ -1,0 +1,1656 @@
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: com.tora.MyBenchmark.test_ArrayListBasedRepository_double
+
+# Run progress: 0.00% complete, ETA 00:01:54
+# Fork: 1 of 1
+# Warmup Iteration   1: 20073535.228 ops/s
+Iteration   1: 24214943.178 ops/s
+
+
+Run result: 24214943.18 ops/s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: com.tora.MyBenchmark.test_ArrayListBasedRepository_int
+
+# Run progress: 1.75% complete, ETA 00:02:49
+# Fork: 1 of 1
+# Warmup Iteration   1: 38751637.948 ops/s
+Iteration   1: 23217516.802 ops/s
+
+
+Run result: 23217516.80 ops/s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: com.tora.MyBenchmark.test_ArrayListBasedRepository_object
+
+# Run progress: 3.51% complete, ETA 00:02:49
+# Fork: 1 of 1
+# Warmup Iteration   1: 30273257.018 ops/s
+Iteration   1: 48818206.337 ops/s
+
+
+Run result: 48818206.34 ops/s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: com.tora.MyBenchmark.test_ConcurentHashMapBasedRepository_double
+
+# Run progress: 5.26% complete, ETA 00:02:46
+# Fork: 1 of 1
+# Warmup Iteration   1: 5426405.392 ops/s
+Iteration   1: 3174705.969 ops/s
+
+
+Run result: 3174705.97 ops/s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: com.tora.MyBenchmark.test_ConcurentHashMapBasedRepository_int
+
+# Run progress: 7.02% complete, ETA 00:02:41
+# Fork: 1 of 1
+# Warmup Iteration   1: 4783289.583 ops/s
+Iteration   1: 3261161.342 ops/s
+
+
+Run result: 3261161.34 ops/s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: com.tora.MyBenchmark.test_ConcurentHashMapBasedRepository_object
+
+# Run progress: 8.77% complete, ETA 00:02:37
+# Fork: 1 of 1
+# Warmup Iteration   1: 4104137.133 ops/s
+Iteration   1: 4409864.714 ops/s
+
+
+Run result: 4409864.71 ops/s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: com.tora.MyBenchmark.test_DoubleEclipseBaseRepository_double
+
+# Run progress: 10.52% complete, ETA 00:02:32
+# Fork: 1 of 1
+# Warmup Iteration   1: 14955455.966 ops/s
+Iteration   1: 11078643.572 ops/s
+
+
+Run result: 11078643.57 ops/s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: com.tora.MyBenchmark.test_DoubleFastUtilBaseRepository_double
+
+# Run progress: 12.28% complete, ETA 00:02:29
+# Fork: 1 of 1
+# Warmup Iteration   1: 12091743.094 ops/s
+Iteration   1: 20265974.952 ops/s
+
+
+Run result: 20265974.95 ops/s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: com.tora.MyBenchmark.test_EclipseCollectionsBasedRepository_double
+
+# Run progress: 14.03% complete, ETA 00:02:26
+# Fork: 1 of 1
+# Warmup Iteration   1: 4096427.087 ops/s
+Iteration   1: 4173704.223 ops/s
+
+
+Run result: 4173704.22 ops/s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: com.tora.MyBenchmark.test_EclipseCollectionsBasedRepository_int
+
+# Run progress: 15.78% complete, ETA 00:02:23
+# Fork: 1 of 1
+# Warmup Iteration   1: 26164339.294 ops/s
+Iteration   1: 33629258.038 ops/s
+
+
+Run result: 33629258.04 ops/s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: com.tora.MyBenchmark.test_EclipseCollectionsBasedRepository_object
+
+# Run progress: 17.54% complete, ETA 00:02:20
+# Fork: 1 of 1
+# Warmup Iteration   1: 4372304.893 ops/s
+Iteration   1: 3571207.176 ops/s
+
+
+Run result: 3571207.18 ops/s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: com.tora.MyBenchmark.test_HashSetBasedRepository_double
+
+# Run progress: 19.29% complete, ETA 00:02:17
+# Fork: 1 of 1
+# Warmup Iteration   1: 5787984.220 ops/s
+Iteration   1: 4779383.421 ops/s
+
+
+Run result: 4779383.42 ops/s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: com.tora.MyBenchmark.test_HashSetBasedRepository_int
+
+# Run progress: 21.05% complete, ETA 00:02:14
+# Fork: 1 of 1
+# Warmup Iteration   1: 5932886.737 ops/s
+Iteration   1: 5568809.030 ops/s
+
+
+Run result: 5568809.03 ops/s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: com.tora.MyBenchmark.test_HashSetBasedRepository_object
+
+# Run progress: 22.80% complete, ETA 00:02:11
+# Fork: 1 of 1
+# Warmup Iteration   1: 9711174.604 ops/s
+Iteration   1: 6117710.091 ops/s
+
+
+Run result: 6117710.09 ops/s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: com.tora.MyBenchmark.test_IntEclipseBasedRepository_int
+
+# Run progress: 24.55% complete, ETA 00:02:08
+# Fork: 1 of 1
+# Warmup Iteration   1: 38744560.495 ops/s
+Iteration   1: 25157999.933 ops/s
+
+
+Run result: 25157999.93 ops/s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: com.tora.MyBenchmark.test_IntFastUtilBaseRepository_int
+
+# Run progress: 26.31% complete, ETA 00:02:05
+# Fork: 1 of 1
+# Warmup Iteration   1: 31700042.580 ops/s
+Iteration   1: 34140033.627 ops/s
+
+
+Run result: 34140033.63 ops/s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: com.tora.MyBenchmark.test_TreeSetBasedRepository_double
+
+# Run progress: 28.06% complete, ETA 00:02:02
+# Fork: 1 of 1
+# Warmup Iteration   1: 7729379.579 ops/s
+Iteration   1: 5712073.328 ops/s
+
+
+Run result: 5712073.33 ops/s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: com.tora.MyBenchmark.test_TreeSetBasedRepository_int
+
+# Run progress: 29.81% complete, ETA 00:01:59
+# Fork: 1 of 1
+# Warmup Iteration   1: 46493248.758 ops/s
+Iteration   1: 34367171.252 ops/s
+
+
+Run result: 34367171.25 ops/s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Throughput, ops/time
+# Benchmark: com.tora.MyBenchmark.test_TreeSetBasedRepository_object
+
+# Run progress: 31.57% complete, ETA 00:01:56
+# Fork: 1 of 1
+# Warmup Iteration   1: 8154965.039 ops/s
+Iteration   1: 6558409.355 ops/s
+
+
+Run result: 6558409.36 ops/s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: com.tora.MyBenchmark.test_ArrayListBasedRepository_double
+
+# Run progress: 33.32% complete, ETA 00:01:53
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s/op
+Iteration   1: 0.000 s/op
+
+
+Run result: 0.00 s/op (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: com.tora.MyBenchmark.test_ArrayListBasedRepository_int
+
+# Run progress: 35.08% complete, ETA 00:01:50
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s/op
+Iteration   1: 0.000 s/op
+
+
+Run result: 0.00 s/op (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: com.tora.MyBenchmark.test_ArrayListBasedRepository_object
+
+# Run progress: 36.83% complete, ETA 00:01:47
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s/op
+Iteration   1: 0.000 s/op
+
+
+Run result: 0.00 s/op (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: com.tora.MyBenchmark.test_ConcurentHashMapBasedRepository_double
+
+# Run progress: 38.58% complete, ETA 00:01:44
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s/op
+Iteration   1: 0.000 s/op
+
+
+Run result: 0.00 s/op (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: com.tora.MyBenchmark.test_ConcurentHashMapBasedRepository_int
+
+# Run progress: 40.34% complete, ETA 00:01:41
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s/op
+Iteration   1: 0.000 s/op
+
+
+Run result: 0.00 s/op (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: com.tora.MyBenchmark.test_ConcurentHashMapBasedRepository_object
+
+# Run progress: 42.09% complete, ETA 00:01:38
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s/op
+Iteration   1: 0.000 s/op
+
+
+Run result: 0.00 s/op (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: com.tora.MyBenchmark.test_DoubleEclipseBaseRepository_double
+
+# Run progress: 43.85% complete, ETA 00:01:35
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s/op
+Iteration   1: 0.000 s/op
+
+
+Run result: 0.00 s/op (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: com.tora.MyBenchmark.test_DoubleFastUtilBaseRepository_double
+
+# Run progress: 45.60% complete, ETA 00:01:32
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s/op
+Iteration   1: 0.000 s/op
+
+
+Run result: 0.00 s/op (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: com.tora.MyBenchmark.test_EclipseCollectionsBasedRepository_double
+
+# Run progress: 47.35% complete, ETA 00:01:29
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s/op
+Iteration   1: 0.000 s/op
+
+
+Run result: 0.00 s/op (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: com.tora.MyBenchmark.test_EclipseCollectionsBasedRepository_int
+
+# Run progress: 49.11% complete, ETA 00:01:26
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s/op
+Iteration   1: 0.000 s/op
+
+
+Run result: 0.00 s/op (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: com.tora.MyBenchmark.test_EclipseCollectionsBasedRepository_object
+
+# Run progress: 50.86% complete, ETA 00:01:23
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s/op
+Iteration   1: 0.000 s/op
+
+
+Run result: 0.00 s/op (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: com.tora.MyBenchmark.test_HashSetBasedRepository_double
+
+# Run progress: 52.61% complete, ETA 00:01:20
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s/op
+Iteration   1: 0.000 s/op
+
+
+Run result: 0.00 s/op (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: com.tora.MyBenchmark.test_HashSetBasedRepository_int
+
+# Run progress: 54.37% complete, ETA 00:01:17
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s/op
+Iteration   1: 0.000 s/op
+
+
+Run result: 0.00 s/op (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: com.tora.MyBenchmark.test_HashSetBasedRepository_object
+
+# Run progress: 56.12% complete, ETA 00:01:14
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s/op
+Iteration   1: 0.000 s/op
+
+
+Run result: 0.00 s/op (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: com.tora.MyBenchmark.test_IntEclipseBasedRepository_int
+
+# Run progress: 57.88% complete, ETA 00:01:11
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s/op
+Iteration   1: 0.000 s/op
+
+
+Run result: 0.00 s/op (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: com.tora.MyBenchmark.test_IntFastUtilBaseRepository_int
+
+# Run progress: 59.63% complete, ETA 00:01:08
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s/op
+Iteration   1: 0.000 s/op
+
+
+Run result: 0.00 s/op (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: com.tora.MyBenchmark.test_TreeSetBasedRepository_double
+
+# Run progress: 61.38% complete, ETA 00:01:05
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s/op
+Iteration   1: 0.000 s/op
+
+
+Run result: 0.00 s/op (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: com.tora.MyBenchmark.test_TreeSetBasedRepository_int
+
+# Run progress: 63.14% complete, ETA 00:01:02
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s/op
+Iteration   1: 0.000 s/op
+
+
+Run result: 0.00 s/op (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Average time, time/op
+# Benchmark: com.tora.MyBenchmark.test_TreeSetBasedRepository_object
+
+# Run progress: 64.89% complete, ETA 00:00:59
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s/op
+Iteration   1: 0.000 s/op
+
+
+Run result: 0.00 s/op (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Sampling time
+# Benchmark: com.tora.MyBenchmark.test_ArrayListBasedRepository_double
+
+# Run progress: 66.64% complete, ETA 00:00:56
+# Fork: 1 of 1
+# Warmup Iteration   1: n = 22253, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+Iteration   1: n = 17873, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+
+
+Result: 0.000 ±(99.9%) 0.000 s/op [Average]
+  Statistics: (min, avg, max) = (0.000, 0.000, 0.000), stdev = 0.000
+  Confidence interval (99.9%): [0.000, 0.000]
+  Samples, N = 17873
+        mean =      0.000 ±(99.9%) 0.000 s/op
+         min =      0.000 s/op
+  p( 0.0000) =      0.000 s/op
+  p(50.0000) =      0.000 s/op
+  p(90.0000) =      0.000 s/op
+  p(95.0000) =      0.000 s/op
+  p(99.0000) =      0.000 s/op
+  p(99.9000) =      0.000 s/op
+  p(99.9900) =      0.000 s/op
+  p(99.9990) =      0.000 s/op
+  p(99.9999) =      0.000 s/op
+         max =      0.000 s/op
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Sampling time
+# Benchmark: com.tora.MyBenchmark.test_ArrayListBasedRepository_int
+
+# Run progress: 68.40% complete, ETA 00:00:53
+# Fork: 1 of 1
+# Warmup Iteration   1: n = 32270, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+Iteration   1: n = 12559, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+
+
+Result: 0.000 ±(99.9%) 0.000 s/op [Average]
+  Statistics: (min, avg, max) = (0.000, 0.000, 0.000), stdev = 0.000
+  Confidence interval (99.9%): [0.000, 0.000]
+  Samples, N = 12559
+        mean =      0.000 ±(99.9%) 0.000 s/op
+         min =      0.000 s/op
+  p( 0.0000) =      0.000 s/op
+  p(50.0000) =      0.000 s/op
+  p(90.0000) =      0.000 s/op
+  p(95.0000) =      0.000 s/op
+  p(99.0000) =      0.000 s/op
+  p(99.9000) =      0.000 s/op
+  p(99.9900) =      0.000 s/op
+  p(99.9990) =      0.000 s/op
+  p(99.9999) =      0.000 s/op
+         max =      0.000 s/op
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Sampling time
+# Benchmark: com.tora.MyBenchmark.test_ArrayListBasedRepository_object
+
+# Run progress: 70.15% complete, ETA 00:00:51
+# Fork: 1 of 1
+# Warmup Iteration   1: n = 23305, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+Iteration   1: n = 18767, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+
+
+Result: 0.000 ±(99.9%) 0.000 s/op [Average]
+  Statistics: (min, avg, max) = (0.000, 0.000, 0.000), stdev = 0.000
+  Confidence interval (99.9%): [0.000, 0.000]
+  Samples, N = 18767
+        mean =      0.000 ±(99.9%) 0.000 s/op
+         min =      0.000 s/op
+  p( 0.0000) =      0.000 s/op
+  p(50.0000) =      0.000 s/op
+  p(90.0000) =      0.000 s/op
+  p(95.0000) =      0.000 s/op
+  p(99.0000) =      0.000 s/op
+  p(99.9000) =      0.000 s/op
+  p(99.9900) =      0.000 s/op
+  p(99.9990) =      0.000 s/op
+  p(99.9999) =      0.000 s/op
+         max =      0.000 s/op
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Sampling time
+# Benchmark: com.tora.MyBenchmark.test_ConcurentHashMapBasedRepository_double
+
+# Run progress: 71.91% complete, ETA 00:00:48
+# Fork: 1 of 1
+# Warmup Iteration   1: n = 29754, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+Iteration   1: n = 11923, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+
+
+Result: 0.000 ±(99.9%) 0.000 s/op [Average]
+  Statistics: (min, avg, max) = (0.000, 0.000, 0.000), stdev = 0.000
+  Confidence interval (99.9%): [0.000, 0.000]
+  Samples, N = 11923
+        mean =      0.000 ±(99.9%) 0.000 s/op
+         min =      0.000 s/op
+  p( 0.0000) =      0.000 s/op
+  p(50.0000) =      0.000 s/op
+  p(90.0000) =      0.000 s/op
+  p(95.0000) =      0.000 s/op
+  p(99.0000) =      0.000 s/op
+  p(99.9000) =      0.000 s/op
+  p(99.9900) =      0.000 s/op
+  p(99.9990) =      0.000 s/op
+  p(99.9999) =      0.000 s/op
+         max =      0.000 s/op
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Sampling time
+# Benchmark: com.tora.MyBenchmark.test_ConcurentHashMapBasedRepository_int
+
+# Run progress: 73.66% complete, ETA 00:00:45
+# Fork: 1 of 1
+# Warmup Iteration   1: n = 20197, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+Iteration   1: n = 16307, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+
+
+Result: 0.000 ±(99.9%) 0.000 s/op [Average]
+  Statistics: (min, avg, max) = (0.000, 0.000, 0.001), stdev = 0.000
+  Confidence interval (99.9%): [0.000, 0.000]
+  Samples, N = 16307
+        mean =      0.000 ±(99.9%) 0.000 s/op
+         min =      0.000 s/op
+  p( 0.0000) =      0.000 s/op
+  p(50.0000) =      0.000 s/op
+  p(90.0000) =      0.000 s/op
+  p(95.0000) =      0.000 s/op
+  p(99.0000) =      0.000 s/op
+  p(99.9000) =      0.000 s/op
+  p(99.9900) =      0.001 s/op
+  p(99.9990) =      0.001 s/op
+  p(99.9999) =      0.001 s/op
+         max =      0.001 s/op
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Sampling time
+# Benchmark: com.tora.MyBenchmark.test_ConcurentHashMapBasedRepository_object
+
+# Run progress: 75.41% complete, ETA 00:00:42
+# Fork: 1 of 1
+# Warmup Iteration   1: n = 22156, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+Iteration   1: n = 12204, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+
+
+Result: 0.000 ±(99.9%) 0.000 s/op [Average]
+  Statistics: (min, avg, max) = (0.000, 0.000, 0.000), stdev = 0.000
+  Confidence interval (99.9%): [0.000, 0.000]
+  Samples, N = 12204
+        mean =      0.000 ±(99.9%) 0.000 s/op
+         min =      0.000 s/op
+  p( 0.0000) =      0.000 s/op
+  p(50.0000) =      0.000 s/op
+  p(90.0000) =      0.000 s/op
+  p(95.0000) =      0.000 s/op
+  p(99.0000) =      0.000 s/op
+  p(99.9000) =      0.000 s/op
+  p(99.9900) =      0.000 s/op
+  p(99.9990) =      0.000 s/op
+  p(99.9999) =      0.000 s/op
+         max =      0.000 s/op
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Sampling time
+# Benchmark: com.tora.MyBenchmark.test_DoubleEclipseBaseRepository_double
+
+# Run progress: 77.17% complete, ETA 00:00:39
+# Fork: 1 of 1
+# Warmup Iteration   1: n = 38525, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+Iteration   1: n = 24306, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+
+
+Result: 0.000 ±(99.9%) 0.000 s/op [Average]
+  Statistics: (min, avg, max) = (0.000, 0.000, 0.000), stdev = 0.000
+  Confidence interval (99.9%): [0.000, 0.000]
+  Samples, N = 24306
+        mean =      0.000 ±(99.9%) 0.000 s/op
+         min =      0.000 s/op
+  p( 0.0000) =      0.000 s/op
+  p(50.0000) =      0.000 s/op
+  p(90.0000) =      0.000 s/op
+  p(95.0000) =      0.000 s/op
+  p(99.0000) =      0.000 s/op
+  p(99.9000) =      0.000 s/op
+  p(99.9900) =      0.000 s/op
+  p(99.9990) =      0.000 s/op
+  p(99.9999) =      0.000 s/op
+         max =      0.000 s/op
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Sampling time
+# Benchmark: com.tora.MyBenchmark.test_DoubleFastUtilBaseRepository_double
+
+# Run progress: 78.92% complete, ETA 00:00:36
+# Fork: 1 of 1
+# Warmup Iteration   1: n = 34868, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+Iteration   1: n = 16203, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+
+
+Result: 0.000 ±(99.9%) 0.000 s/op [Average]
+  Statistics: (min, avg, max) = (0.000, 0.000, 0.000), stdev = 0.000
+  Confidence interval (99.9%): [0.000, 0.000]
+  Samples, N = 16203
+        mean =      0.000 ±(99.9%) 0.000 s/op
+         min =      0.000 s/op
+  p( 0.0000) =      0.000 s/op
+  p(50.0000) =      0.000 s/op
+  p(90.0000) =      0.000 s/op
+  p(95.0000) =      0.000 s/op
+  p(99.0000) =      0.000 s/op
+  p(99.9000) =      0.000 s/op
+  p(99.9900) =      0.000 s/op
+  p(99.9990) =      0.000 s/op
+  p(99.9999) =      0.000 s/op
+         max =      0.000 s/op
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Sampling time
+# Benchmark: com.tora.MyBenchmark.test_EclipseCollectionsBasedRepository_double
+
+# Run progress: 80.67% complete, ETA 00:00:33
+# Fork: 1 of 1
+# Warmup Iteration   1: n = 29846, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+Iteration   1: n = 12454, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+
+
+Result: 0.000 ±(99.9%) 0.000 s/op [Average]
+  Statistics: (min, avg, max) = (0.000, 0.000, 0.001), stdev = 0.000
+  Confidence interval (99.9%): [0.000, 0.000]
+  Samples, N = 12454
+        mean =      0.000 ±(99.9%) 0.000 s/op
+         min =      0.000 s/op
+  p( 0.0000) =      0.000 s/op
+  p(50.0000) =      0.000 s/op
+  p(90.0000) =      0.000 s/op
+  p(95.0000) =      0.000 s/op
+  p(99.0000) =      0.000 s/op
+  p(99.9000) =      0.000 s/op
+  p(99.9900) =      0.001 s/op
+  p(99.9990) =      0.001 s/op
+  p(99.9999) =      0.001 s/op
+         max =      0.001 s/op
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Sampling time
+# Benchmark: com.tora.MyBenchmark.test_EclipseCollectionsBasedRepository_int
+
+# Run progress: 82.43% complete, ETA 00:00:30
+# Fork: 1 of 1
+# Warmup Iteration   1: n = 26120, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+Iteration   1: n = 26095, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+
+
+Result: 0.000 ±(99.9%) 0.000 s/op [Average]
+  Statistics: (min, avg, max) = (0.000, 0.000, 0.000), stdev = 0.000
+  Confidence interval (99.9%): [0.000, 0.000]
+  Samples, N = 26095
+        mean =      0.000 ±(99.9%) 0.000 s/op
+         min =      0.000 s/op
+  p( 0.0000) =      0.000 s/op
+  p(50.0000) =      0.000 s/op
+  p(90.0000) =      0.000 s/op
+  p(95.0000) =      0.000 s/op
+  p(99.0000) =      0.000 s/op
+  p(99.9000) =      0.000 s/op
+  p(99.9900) =      0.000 s/op
+  p(99.9990) =      0.000 s/op
+  p(99.9999) =      0.000 s/op
+         max =      0.000 s/op
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Sampling time
+# Benchmark: com.tora.MyBenchmark.test_EclipseCollectionsBasedRepository_object
+
+# Run progress: 84.18% complete, ETA 00:00:27
+# Fork: 1 of 1
+# Warmup Iteration   1: n = 22108, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+Iteration   1: n = 14057, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+
+
+Result: 0.000 ±(99.9%) 0.000 s/op [Average]
+  Statistics: (min, avg, max) = (0.000, 0.000, 0.000), stdev = 0.000
+  Confidence interval (99.9%): [0.000, 0.000]
+  Samples, N = 14057
+        mean =      0.000 ±(99.9%) 0.000 s/op
+         min =      0.000 s/op
+  p( 0.0000) =      0.000 s/op
+  p(50.0000) =      0.000 s/op
+  p(90.0000) =      0.000 s/op
+  p(95.0000) =      0.000 s/op
+  p(99.0000) =      0.000 s/op
+  p(99.9000) =      0.000 s/op
+  p(99.9900) =      0.000 s/op
+  p(99.9990) =      0.000 s/op
+  p(99.9999) =      0.000 s/op
+         max =      0.000 s/op
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Sampling time
+# Benchmark: com.tora.MyBenchmark.test_HashSetBasedRepository_double
+
+# Run progress: 85.94% complete, ETA 00:00:24
+# Fork: 1 of 1
+# Warmup Iteration   1: n = 31343, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+Iteration   1: n = 14997, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+
+
+Result: 0.000 ±(99.9%) 0.000 s/op [Average]
+  Statistics: (min, avg, max) = (0.000, 0.000, 0.000), stdev = 0.000
+  Confidence interval (99.9%): [0.000, 0.000]
+  Samples, N = 14997
+        mean =      0.000 ±(99.9%) 0.000 s/op
+         min =      0.000 s/op
+  p( 0.0000) =      0.000 s/op
+  p(50.0000) =      0.000 s/op
+  p(90.0000) =      0.000 s/op
+  p(95.0000) =      0.000 s/op
+  p(99.0000) =      0.000 s/op
+  p(99.9000) =      0.000 s/op
+  p(99.9900) =      0.000 s/op
+  p(99.9990) =      0.000 s/op
+  p(99.9999) =      0.000 s/op
+         max =      0.000 s/op
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Sampling time
+# Benchmark: com.tora.MyBenchmark.test_HashSetBasedRepository_int
+
+# Run progress: 87.69% complete, ETA 00:00:21
+# Fork: 1 of 1
+# Warmup Iteration   1: n = 25799, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+Iteration   1: n = 14231, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+
+
+Result: 0.000 ±(99.9%) 0.000 s/op [Average]
+  Statistics: (min, avg, max) = (0.000, 0.000, 0.000), stdev = 0.000
+  Confidence interval (99.9%): [0.000, 0.000]
+  Samples, N = 14231
+        mean =      0.000 ±(99.9%) 0.000 s/op
+         min =      0.000 s/op
+  p( 0.0000) =      0.000 s/op
+  p(50.0000) =      0.000 s/op
+  p(90.0000) =      0.000 s/op
+  p(95.0000) =      0.000 s/op
+  p(99.0000) =      0.000 s/op
+  p(99.9000) =      0.000 s/op
+  p(99.9900) =      0.000 s/op
+  p(99.9990) =      0.000 s/op
+  p(99.9999) =      0.000 s/op
+         max =      0.000 s/op
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Sampling time
+# Benchmark: com.tora.MyBenchmark.test_HashSetBasedRepository_object
+
+# Run progress: 89.44% complete, ETA 00:00:18
+# Fork: 1 of 1
+# Warmup Iteration   1: n = 25000, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+Iteration   1: n = 23725, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+
+
+Result: 0.000 ±(99.9%) 0.000 s/op [Average]
+  Statistics: (min, avg, max) = (0.000, 0.000, 0.000), stdev = 0.000
+  Confidence interval (99.9%): [0.000, 0.000]
+  Samples, N = 23725
+        mean =      0.000 ±(99.9%) 0.000 s/op
+         min =      0.000 s/op
+  p( 0.0000) =      0.000 s/op
+  p(50.0000) =      0.000 s/op
+  p(90.0000) =      0.000 s/op
+  p(95.0000) =      0.000 s/op
+  p(99.0000) =      0.000 s/op
+  p(99.9000) =      0.000 s/op
+  p(99.9900) =      0.000 s/op
+  p(99.9990) =      0.000 s/op
+  p(99.9999) =      0.000 s/op
+         max =      0.000 s/op
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Sampling time
+# Benchmark: com.tora.MyBenchmark.test_IntEclipseBasedRepository_int
+
+# Run progress: 91.20% complete, ETA 00:00:15
+# Fork: 1 of 1
+# Warmup Iteration   1: n = 36696, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+Iteration   1: n = 19232, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+
+
+Result: 0.000 ±(99.9%) 0.000 s/op [Average]
+  Statistics: (min, avg, max) = (0.000, 0.000, 0.000), stdev = 0.000
+  Confidence interval (99.9%): [0.000, 0.000]
+  Samples, N = 19232
+        mean =      0.000 ±(99.9%) 0.000 s/op
+         min =      0.000 s/op
+  p( 0.0000) =      0.000 s/op
+  p(50.0000) =      0.000 s/op
+  p(90.0000) =      0.000 s/op
+  p(95.0000) =      0.000 s/op
+  p(99.0000) =      0.000 s/op
+  p(99.9000) =      0.000 s/op
+  p(99.9900) =      0.000 s/op
+  p(99.9990) =      0.000 s/op
+  p(99.9999) =      0.000 s/op
+         max =      0.000 s/op
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Sampling time
+# Benchmark: com.tora.MyBenchmark.test_IntFastUtilBaseRepository_int
+
+# Run progress: 92.95% complete, ETA 00:00:12
+# Fork: 1 of 1
+# Warmup Iteration   1: n = 31662, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+Iteration   1: n = 13362, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+
+
+Result: 0.000 ±(99.9%) 0.000 s/op [Average]
+  Statistics: (min, avg, max) = (0.000, 0.000, 0.000), stdev = 0.000
+  Confidence interval (99.9%): [0.000, 0.000]
+  Samples, N = 13362
+        mean =      0.000 ±(99.9%) 0.000 s/op
+         min =      0.000 s/op
+  p( 0.0000) =      0.000 s/op
+  p(50.0000) =      0.000 s/op
+  p(90.0000) =      0.000 s/op
+  p(95.0000) =      0.000 s/op
+  p(99.0000) =      0.000 s/op
+  p(99.9000) =      0.000 s/op
+  p(99.9900) =      0.000 s/op
+  p(99.9990) =      0.000 s/op
+  p(99.9999) =      0.000 s/op
+         max =      0.000 s/op
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Sampling time
+# Benchmark: com.tora.MyBenchmark.test_TreeSetBasedRepository_double
+
+# Run progress: 94.71% complete, ETA 00:00:09
+# Fork: 1 of 1
+# Warmup Iteration   1: n = 28200, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+Iteration   1: n = 16383, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+
+
+Result: 0.000 ±(99.9%) 0.000 s/op [Average]
+  Statistics: (min, avg, max) = (0.000, 0.000, 0.000), stdev = 0.000
+  Confidence interval (99.9%): [0.000, 0.000]
+  Samples, N = 16383
+        mean =      0.000 ±(99.9%) 0.000 s/op
+         min =      0.000 s/op
+  p( 0.0000) =      0.000 s/op
+  p(50.0000) =      0.000 s/op
+  p(90.0000) =      0.000 s/op
+  p(95.0000) =      0.000 s/op
+  p(99.0000) =      0.000 s/op
+  p(99.9000) =      0.000 s/op
+  p(99.9900) =      0.000 s/op
+  p(99.9990) =      0.000 s/op
+  p(99.9999) =      0.000 s/op
+         max =      0.000 s/op
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Sampling time
+# Benchmark: com.tora.MyBenchmark.test_TreeSetBasedRepository_int
+
+# Run progress: 96.46% complete, ETA 00:00:06
+# Fork: 1 of 1
+# Warmup Iteration   1: n = 24766, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+Iteration   1: n = 13112, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+
+
+Result: 0.000 ±(99.9%) 0.000 s/op [Average]
+  Statistics: (min, avg, max) = (0.000, 0.000, 0.000), stdev = 0.000
+  Confidence interval (99.9%): [0.000, 0.000]
+  Samples, N = 13112
+        mean =      0.000 ±(99.9%) 0.000 s/op
+         min =      0.000 s/op
+  p( 0.0000) =      0.000 s/op
+  p(50.0000) =      0.000 s/op
+  p(90.0000) =      0.000 s/op
+  p(95.0000) =      0.000 s/op
+  p(99.0000) =      0.000 s/op
+  p(99.9000) =      0.000 s/op
+  p(99.9900) =      0.000 s/op
+  p(99.9990) =      0.000 s/op
+  p(99.9999) =      0.000 s/op
+         max =      0.000 s/op
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, 1 s each
+# Measurement: 1 iterations, 1 s each
+# Threads: 1 thread, will synchronize iterations
+# Benchmark mode: Sampling time
+# Benchmark: com.tora.MyBenchmark.test_TreeSetBasedRepository_object
+
+# Run progress: 98.21% complete, ETA 00:00:03
+# Fork: 1 of 1
+# Warmup Iteration   1: n = 25132, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+Iteration   1: n = 12927, mean = 0 s/op, p{0.00, 0.50, 0.90, 0.95, 0.99, 0.999, 0.9999, 1.00} = 0, 0, 0, 0, 0, 0, 0, 0 s/op
+
+
+Result: 0.000 ±(99.9%) 0.000 s/op [Average]
+  Statistics: (min, avg, max) = (0.000, 0.000, 0.000), stdev = 0.000
+  Confidence interval (99.9%): [0.000, 0.000]
+  Samples, N = 12927
+        mean =      0.000 ±(99.9%) 0.000 s/op
+         min =      0.000 s/op
+  p( 0.0000) =      0.000 s/op
+  p(50.0000) =      0.000 s/op
+  p(90.0000) =      0.000 s/op
+  p(95.0000) =      0.000 s/op
+  p(99.0000) =      0.000 s/op
+  p(99.9000) =      0.000 s/op
+  p(99.9900) =      0.000 s/op
+  p(99.9990) =      0.000 s/op
+  p(99.9999) =      0.000 s/op
+         max =      0.000 s/op
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, single-shot each
+# Measurement: 1 iterations, single-shot each
+# Threads: 1 thread
+# Benchmark mode: Single shot invocation time
+# Benchmark: com.tora.MyBenchmark.test_ArrayListBasedRepository_double
+
+# Run progress: 99.97% complete, ETA 00:00:00
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.001 s
+Iteration   1: 0.000 s
+
+
+Run result: 0.00 s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, single-shot each
+# Measurement: 1 iterations, single-shot each
+# Threads: 1 thread
+# Benchmark mode: Single shot invocation time
+# Benchmark: com.tora.MyBenchmark.test_ArrayListBasedRepository_int
+
+# Run progress: 99.97% complete, ETA 00:00:00
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s
+Iteration   1: 0.000 s
+
+
+Run result: 0.00 s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, single-shot each
+# Measurement: 1 iterations, single-shot each
+# Threads: 1 thread
+# Benchmark mode: Single shot invocation time
+# Benchmark: com.tora.MyBenchmark.test_ArrayListBasedRepository_object
+
+# Run progress: 99.97% complete, ETA 00:00:00
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.001 s
+Iteration   1: 0.000 s
+
+
+Run result: 0.00 s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, single-shot each
+# Measurement: 1 iterations, single-shot each
+# Threads: 1 thread
+# Benchmark mode: Single shot invocation time
+# Benchmark: com.tora.MyBenchmark.test_ConcurentHashMapBasedRepository_double
+
+# Run progress: 99.97% complete, ETA 00:00:00
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s
+Iteration   1: 0.000 s
+
+
+Run result: 0.00 s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, single-shot each
+# Measurement: 1 iterations, single-shot each
+# Threads: 1 thread
+# Benchmark mode: Single shot invocation time
+# Benchmark: com.tora.MyBenchmark.test_ConcurentHashMapBasedRepository_int
+
+# Run progress: 99.97% complete, ETA 00:00:00
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s
+Iteration   1: 0.000 s
+
+
+Run result: 0.00 s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, single-shot each
+# Measurement: 1 iterations, single-shot each
+# Threads: 1 thread
+# Benchmark mode: Single shot invocation time
+# Benchmark: com.tora.MyBenchmark.test_ConcurentHashMapBasedRepository_object
+
+# Run progress: 99.98% complete, ETA 00:00:00
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.001 s
+Iteration   1: 0.000 s
+
+
+Run result: 0.00 s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, single-shot each
+# Measurement: 1 iterations, single-shot each
+# Threads: 1 thread
+# Benchmark mode: Single shot invocation time
+# Benchmark: com.tora.MyBenchmark.test_DoubleEclipseBaseRepository_double
+
+# Run progress: 99.98% complete, ETA 00:00:00
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.021 s
+Iteration   1: 0.000 s
+
+
+Run result: 0.00 s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, single-shot each
+# Measurement: 1 iterations, single-shot each
+# Threads: 1 thread
+# Benchmark mode: Single shot invocation time
+# Benchmark: com.tora.MyBenchmark.test_DoubleFastUtilBaseRepository_double
+
+# Run progress: 99.98% complete, ETA 00:00:00
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.011 s
+Iteration   1: 0.000 s
+
+
+Run result: 0.00 s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, single-shot each
+# Measurement: 1 iterations, single-shot each
+# Threads: 1 thread
+# Benchmark mode: Single shot invocation time
+# Benchmark: com.tora.MyBenchmark.test_EclipseCollectionsBasedRepository_double
+
+# Run progress: 99.98% complete, ETA 00:00:00
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s
+Iteration   1: 0.000 s
+
+
+Run result: 0.00 s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, single-shot each
+# Measurement: 1 iterations, single-shot each
+# Threads: 1 thread
+# Benchmark mode: Single shot invocation time
+# Benchmark: com.tora.MyBenchmark.test_EclipseCollectionsBasedRepository_int
+
+# Run progress: 99.98% complete, ETA 00:00:00
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.085 s
+Iteration   1: 0.000 s
+
+
+Run result: 0.00 s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, single-shot each
+# Measurement: 1 iterations, single-shot each
+# Threads: 1 thread
+# Benchmark mode: Single shot invocation time
+# Benchmark: com.tora.MyBenchmark.test_EclipseCollectionsBasedRepository_object
+
+# Run progress: 99.98% complete, ETA 00:00:00
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.001 s
+Iteration   1: 0.000 s
+
+
+Run result: 0.00 s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, single-shot each
+# Measurement: 1 iterations, single-shot each
+# Threads: 1 thread
+# Benchmark mode: Single shot invocation time
+# Benchmark: com.tora.MyBenchmark.test_HashSetBasedRepository_double
+
+# Run progress: 99.99% complete, ETA 00:00:00
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s
+Iteration   1: 0.000 s
+
+
+Run result: 0.00 s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, single-shot each
+# Measurement: 1 iterations, single-shot each
+# Threads: 1 thread
+# Benchmark mode: Single shot invocation time
+# Benchmark: com.tora.MyBenchmark.test_HashSetBasedRepository_int
+
+# Run progress: 99.99% complete, ETA 00:00:00
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.000 s
+Iteration   1: 0.000 s
+
+
+Run result: 0.00 s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, single-shot each
+# Measurement: 1 iterations, single-shot each
+# Threads: 1 thread
+# Benchmark mode: Single shot invocation time
+# Benchmark: com.tora.MyBenchmark.test_HashSetBasedRepository_object
+
+# Run progress: 99.99% complete, ETA 00:00:00
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.001 s
+Iteration   1: 0.000 s
+
+
+Run result: 0.00 s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, single-shot each
+# Measurement: 1 iterations, single-shot each
+# Threads: 1 thread
+# Benchmark mode: Single shot invocation time
+# Benchmark: com.tora.MyBenchmark.test_IntEclipseBasedRepository_int
+
+# Run progress: 99.99% complete, ETA 00:00:00
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.022 s
+Iteration   1: 0.000 s
+
+
+Run result: 0.00 s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, single-shot each
+# Measurement: 1 iterations, single-shot each
+# Threads: 1 thread
+# Benchmark mode: Single shot invocation time
+# Benchmark: com.tora.MyBenchmark.test_IntFastUtilBaseRepository_int
+
+# Run progress: 99.99% complete, ETA 00:00:00
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.010 s
+Iteration   1: 0.000 s
+
+
+Run result: 0.00 s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, single-shot each
+# Measurement: 1 iterations, single-shot each
+# Threads: 1 thread
+# Benchmark mode: Single shot invocation time
+# Benchmark: com.tora.MyBenchmark.test_TreeSetBasedRepository_double
+
+# Run progress: 99.99% complete, ETA 00:00:00
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.001 s
+Iteration   1: 0.000 s
+
+
+Run result: 0.00 s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, single-shot each
+# Measurement: 1 iterations, single-shot each
+# Threads: 1 thread
+# Benchmark mode: Single shot invocation time
+# Benchmark: com.tora.MyBenchmark.test_TreeSetBasedRepository_int
+
+# Run progress: 100.00% complete, ETA 00:00:00
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.001 s
+Iteration   1: 0.000 s
+
+
+Run result: 0.00 s (<= 2 samples)
+
+
+# VM invoker: C:\java\jre.1.8.0_151\bin\java.exe
+# VM options: <none>
+# Warmup: 1 iterations, single-shot each
+# Measurement: 1 iterations, single-shot each
+# Threads: 1 thread
+# Benchmark mode: Single shot invocation time
+# Benchmark: com.tora.MyBenchmark.test_TreeSetBasedRepository_object
+
+# Run progress: 100.00% complete, ETA 00:00:00
+# Fork: 1 of 1
+# Warmup Iteration   1: 0.001 s
+Iteration   1: 0.000 s
+
+
+Run result: 0.00 s (<= 2 samples)
+
+
+# Run complete. Total time: 00:02:58
+
+Benchmark                                                          Mode  Samples         Score  Score error  Units
+c.t.MyBenchmark.test_ArrayListBasedRepository_double              thrpt        1  24214943.178          NaN  ops/s
+c.t.MyBenchmark.test_ArrayListBasedRepository_int                 thrpt        1  23217516.802          NaN  ops/s
+c.t.MyBenchmark.test_ArrayListBasedRepository_object              thrpt        1  48818206.337          NaN  ops/s
+c.t.MyBenchmark.test_ConcurentHashMapBasedRepository_double       thrpt        1   3174705.969          NaN  ops/s
+c.t.MyBenchmark.test_ConcurentHashMapBasedRepository_int          thrpt        1   3261161.342          NaN  ops/s
+c.t.MyBenchmark.test_ConcurentHashMapBasedRepository_object       thrpt        1   4409864.714          NaN  ops/s
+c.t.MyBenchmark.test_DoubleEclipseBaseRepository_double           thrpt        1  11078643.572          NaN  ops/s
+c.t.MyBenchmark.test_DoubleFastUtilBaseRepository_double          thrpt        1  20265974.952          NaN  ops/s
+c.t.MyBenchmark.test_EclipseCollectionsBasedRepository_double     thrpt        1   4173704.223          NaN  ops/s
+c.t.MyBenchmark.test_EclipseCollectionsBasedRepository_int        thrpt        1  33629258.038          NaN  ops/s
+c.t.MyBenchmark.test_EclipseCollectionsBasedRepository_object     thrpt        1   3571207.176          NaN  ops/s
+c.t.MyBenchmark.test_HashSetBasedRepository_double                thrpt        1   4779383.421          NaN  ops/s
+c.t.MyBenchmark.test_HashSetBasedRepository_int                   thrpt        1   5568809.030          NaN  ops/s
+c.t.MyBenchmark.test_HashSetBasedRepository_object                thrpt        1   6117710.091          NaN  ops/s
+c.t.MyBenchmark.test_IntEclipseBasedRepository_int                thrpt        1  25157999.933          NaN  ops/s
+c.t.MyBenchmark.test_IntFastUtilBaseRepository_int                thrpt        1  34140033.627          NaN  ops/s
+c.t.MyBenchmark.test_TreeSetBasedRepository_double                thrpt        1   5712073.328          NaN  ops/s
+c.t.MyBenchmark.test_TreeSetBasedRepository_int                   thrpt        1  34367171.252          NaN  ops/s
+c.t.MyBenchmark.test_TreeSetBasedRepository_object                thrpt        1   6558409.355          NaN  ops/s
+c.t.MyBenchmark.test_ArrayListBasedRepository_double               avgt        1         0.000          NaN   s/op
+c.t.MyBenchmark.test_ArrayListBasedRepository_int                  avgt        1         0.000          NaN   s/op
+c.t.MyBenchmark.test_ArrayListBasedRepository_object               avgt        1         0.000          NaN   s/op
+c.t.MyBenchmark.test_ConcurentHashMapBasedRepository_double        avgt        1         0.000          NaN   s/op
+c.t.MyBenchmark.test_ConcurentHashMapBasedRepository_int           avgt        1         0.000          NaN   s/op
+c.t.MyBenchmark.test_ConcurentHashMapBasedRepository_object        avgt        1         0.000          NaN   s/op
+c.t.MyBenchmark.test_DoubleEclipseBaseRepository_double            avgt        1         0.000          NaN   s/op
+c.t.MyBenchmark.test_DoubleFastUtilBaseRepository_double           avgt        1         0.000          NaN   s/op
+c.t.MyBenchmark.test_EclipseCollectionsBasedRepository_double      avgt        1         0.000          NaN   s/op
+c.t.MyBenchmark.test_EclipseCollectionsBasedRepository_int         avgt        1         0.000          NaN   s/op
+c.t.MyBenchmark.test_EclipseCollectionsBasedRepository_object      avgt        1         0.000          NaN   s/op
+c.t.MyBenchmark.test_HashSetBasedRepository_double                 avgt        1         0.000          NaN   s/op
+c.t.MyBenchmark.test_HashSetBasedRepository_int                    avgt        1         0.000          NaN   s/op
+c.t.MyBenchmark.test_HashSetBasedRepository_object                 avgt        1         0.000          NaN   s/op
+c.t.MyBenchmark.test_IntEclipseBasedRepository_int                 avgt        1         0.000          NaN   s/op
+c.t.MyBenchmark.test_IntFastUtilBaseRepository_int                 avgt        1         0.000          NaN   s/op
+c.t.MyBenchmark.test_TreeSetBasedRepository_double                 avgt        1         0.000          NaN   s/op
+c.t.MyBenchmark.test_TreeSetBasedRepository_int                    avgt        1         0.000          NaN   s/op
+c.t.MyBenchmark.test_TreeSetBasedRepository_object                 avgt        1         0.000          NaN   s/op
+c.t.MyBenchmark.test_ArrayListBasedRepository_double             sample    17873         0.000        0.000   s/op
+c.t.MyBenchmark.test_ArrayListBasedRepository_int                sample    12559         0.000        0.000   s/op
+c.t.MyBenchmark.test_ArrayListBasedRepository_object             sample    18767         0.000        0.000   s/op
+c.t.MyBenchmark.test_ConcurentHashMapBasedRepository_double      sample    11923         0.000        0.000   s/op
+c.t.MyBenchmark.test_ConcurentHashMapBasedRepository_int         sample    16307         0.000        0.000   s/op
+c.t.MyBenchmark.test_ConcurentHashMapBasedRepository_object      sample    12204         0.000        0.000   s/op
+c.t.MyBenchmark.test_DoubleEclipseBaseRepository_double          sample    24306         0.000        0.000   s/op
+c.t.MyBenchmark.test_DoubleFastUtilBaseRepository_double         sample    16203         0.000        0.000   s/op
+c.t.MyBenchmark.test_EclipseCollectionsBasedRepository_double    sample    12454         0.000        0.000   s/op
+c.t.MyBenchmark.test_EclipseCollectionsBasedRepository_int       sample    26095         0.000        0.000   s/op
+c.t.MyBenchmark.test_EclipseCollectionsBasedRepository_object    sample    14057         0.000        0.000   s/op
+c.t.MyBenchmark.test_HashSetBasedRepository_double               sample    14997         0.000        0.000   s/op
+c.t.MyBenchmark.test_HashSetBasedRepository_int                  sample    14231         0.000        0.000   s/op
+c.t.MyBenchmark.test_HashSetBasedRepository_object               sample    23725         0.000        0.000   s/op
+c.t.MyBenchmark.test_IntEclipseBasedRepository_int               sample    19232         0.000        0.000   s/op
+c.t.MyBenchmark.test_IntFastUtilBaseRepository_int               sample    13362         0.000        0.000   s/op
+c.t.MyBenchmark.test_TreeSetBasedRepository_double               sample    16383         0.000        0.000   s/op
+c.t.MyBenchmark.test_TreeSetBasedRepository_int                  sample    13112         0.000        0.000   s/op
+c.t.MyBenchmark.test_TreeSetBasedRepository_object               sample    12927         0.000        0.000   s/op
+c.t.MyBenchmark.test_ArrayListBasedRepository_double                 ss        1         0.000          NaN      s
+c.t.MyBenchmark.test_ArrayListBasedRepository_int                    ss        1         0.000          NaN      s
+c.t.MyBenchmark.test_ArrayListBasedRepository_object                 ss        1         0.000          NaN      s
+c.t.MyBenchmark.test_ConcurentHashMapBasedRepository_double          ss        1         0.000          NaN      s
+c.t.MyBenchmark.test_ConcurentHashMapBasedRepository_int             ss        1         0.000          NaN      s
+c.t.MyBenchmark.test_ConcurentHashMapBasedRepository_object          ss        1         0.000          NaN      s
+c.t.MyBenchmark.test_DoubleEclipseBaseRepository_double              ss        1         0.000          NaN      s
+c.t.MyBenchmark.test_DoubleFastUtilBaseRepository_double             ss        1         0.000          NaN      s
+c.t.MyBenchmark.test_EclipseCollectionsBasedRepository_double        ss        1         0.000          NaN      s
+c.t.MyBenchmark.test_EclipseCollectionsBasedRepository_int           ss        1         0.000          NaN      s
+c.t.MyBenchmark.test_EclipseCollectionsBasedRepository_object        ss        1         0.000          NaN      s
+c.t.MyBenchmark.test_HashSetBasedRepository_double                   ss        1         0.000          NaN      s
+c.t.MyBenchmark.test_HashSetBasedRepository_int                      ss        1         0.000          NaN      s
+c.t.MyBenchmark.test_HashSetBasedRepository_object                   ss        1         0.000          NaN      s
+c.t.MyBenchmark.test_IntEclipseBasedRepository_int                   ss        1         0.000          NaN      s
+c.t.MyBenchmark.test_IntFastUtilBaseRepository_int                   ss        1         0.000          NaN      s
+c.t.MyBenchmark.test_TreeSetBasedRepository_double                   ss        1         0.000          NaN      s
+c.t.MyBenchmark.test_TreeSetBasedRepository_int                      ss        1         0.000          NaN      s
+c.t.MyBenchmark.test_TreeSetBasedRepository_object                   ss        1         0.000          NaN      s

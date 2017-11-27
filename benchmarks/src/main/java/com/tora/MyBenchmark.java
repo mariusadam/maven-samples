@@ -25,10 +25,114 @@
 
 package com.tora;
 
+import com.ubb.ppp.beans.Order;
+import com.ubb.ppp.repository.*;
 import org.openjdk.jmh.annotations.Benchmark;
+import org.openjdk.jmh.annotations.OutputTimeUnit;
+
+import java.util.concurrent.TimeUnit;
 
 public class MyBenchmark {
-    @Benchmark
-    public void testMethod() {
+    @Benchmark @OutputTimeUnit(TimeUnit.MILLISECONDS)
+    public boolean test_ArrayListBasedRepository_int() {
+        return testRepository(new ArrayListBasedRepository<Integer>(), 1);
+    }
+
+    @Benchmark @OutputTimeUnit(TimeUnit.MILLISECONDS)
+    public boolean test_ArrayListBasedRepository_double() {
+        return testRepository(new ArrayListBasedRepository<Double>(), 1D);
+    }
+
+    @Benchmark @OutputTimeUnit(TimeUnit.MILLISECONDS)
+    public boolean test_ArrayListBasedRepository_object() {
+        return testRepository(new ArrayListBasedRepository<Order>(), new Order(1, 10, 100));
+    }
+
+    @Benchmark @OutputTimeUnit(TimeUnit.MILLISECONDS)
+    public boolean test_ConcurentHashMapBasedRepository_int() {
+        return testRepository(new ConcurentHashMapBasedRepository<Integer>(), 1);
+    }
+
+    @Benchmark @OutputTimeUnit(TimeUnit.MILLISECONDS)
+    public boolean test_ConcurentHashMapBasedRepository_double() {
+        return testRepository(new ConcurentHashMapBasedRepository<Double>(), 1D);
+    }
+
+    @Benchmark @OutputTimeUnit(TimeUnit.MILLISECONDS)
+    public boolean test_ConcurentHashMapBasedRepository_object() {
+        return testRepository(new ConcurentHashMapBasedRepository<Order>(), new Order(1, 10, 100));
+    }
+
+    @Benchmark @OutputTimeUnit(TimeUnit.MILLISECONDS)
+    public boolean test_EclipseCollectionsBasedRepository_int() {
+        return testRepository(new EclipseCollectionsBasedRepository<Integer>(), 1);
+    }
+
+    @Benchmark @OutputTimeUnit(TimeUnit.MILLISECONDS)
+    public boolean test_EclipseCollectionsBasedRepository_double() {
+        return testRepository(new ConcurentHashMapBasedRepository<Double>(), 1D);
+    }
+
+    @Benchmark @OutputTimeUnit(TimeUnit.MILLISECONDS)
+    public boolean test_EclipseCollectionsBasedRepository_object() {
+        return testRepository(new ConcurentHashMapBasedRepository<Order>(), new Order(1, 10, 100));
+    }
+
+    @Benchmark @OutputTimeUnit(TimeUnit.MILLISECONDS)
+    public boolean test_HashSetBasedRepository_int() {
+        return testRepository(new HashSetBasedRepository<Integer>(), 1);
+    }
+
+    @Benchmark @OutputTimeUnit(TimeUnit.MILLISECONDS)
+    public boolean test_HashSetBasedRepository_double() {
+        return testRepository(new HashSetBasedRepository<Double>(), 1D);
+    }
+
+    @Benchmark @OutputTimeUnit(TimeUnit.MILLISECONDS)
+    public boolean test_HashSetBasedRepository_object() {
+        return testRepository(new HashSetBasedRepository<Order>(), new Order(1, 10, 100));
+    }
+
+    @Benchmark @OutputTimeUnit(TimeUnit.MILLISECONDS)
+    public boolean test_TreeSetBasedRepository_int() {
+        return testRepository(new TreeSetBasedRepository<Integer>(), 1);
+    }
+
+    @Benchmark @OutputTimeUnit(TimeUnit.MILLISECONDS)
+    public boolean test_TreeSetBasedRepository_double() {
+        return testRepository(new HashSetBasedRepository<Double>(), 1D);
+    }
+
+    @Benchmark @OutputTimeUnit(TimeUnit.MILLISECONDS)
+    public boolean test_TreeSetBasedRepository_object() {
+        return testRepository(new HashSetBasedRepository<Order>(), new Order(1, 10, 100));
+    }
+
+    @Benchmark @OutputTimeUnit(TimeUnit.MILLISECONDS)
+    public boolean test_IntEclipseBasedRepository_int() {
+        return testRepository(new IntEclipseBasedRepository(), 1);
+    }
+
+    @Benchmark @OutputTimeUnit(TimeUnit.MILLISECONDS)
+    public boolean test_DoubleEclipseBaseRepository_double() {
+        return testRepository(new DoubleEclipseBaseRepository(), 1D);
+    }
+
+    @Benchmark @OutputTimeUnit(TimeUnit.MILLISECONDS)
+    public boolean test_IntFastUtilBaseRepository_int() {
+        return testRepository(new IntFastUtilBaseRepository(), 1);
+    }
+
+    @Benchmark @OutputTimeUnit(TimeUnit.MILLISECONDS)
+    public boolean test_DoubleFastUtilBaseRepository_double() {
+        return testRepository(new DoubleFastUtilBaseRepository(), 1D);
+    }
+
+    public <T> boolean testRepository(InMemoryRepository<T> repo, T elem) {
+        repo.add(elem);
+        boolean contains =  repo.contains(elem);
+        repo.remove(elem);
+        contains = contains && repo.contains(elem);
+        return contains;
     }
 }
