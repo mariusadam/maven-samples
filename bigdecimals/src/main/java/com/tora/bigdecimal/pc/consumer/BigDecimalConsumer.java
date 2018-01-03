@@ -12,9 +12,9 @@ import java.util.concurrent.BlockingQueue;
  * @author Marius Adam
  */
 public class BigDecimalConsumer implements Runnable {
-    private String destinationFolderName;
+    private String                 destinationFolderName;
     private BlockingQueue<Message> queue;
-    private long itemsCount;
+    private long                   itemsCount;
 
     public BigDecimalConsumer(String destinationDir, BlockingQueue<Message> queue, long itemsCount) {
         this.itemsCount = itemsCount;
@@ -41,7 +41,7 @@ public class BigDecimalConsumer implements Runnable {
 
     private void consume(Message message) {
         String destinationFileName = destinationFolderName + File.separator + message.getObjectId();
-        try git utputStream(destinationFileName);
+        try (FileOutputStream fileOut = new FileOutputStream(destinationFileName);
              ObjectOutputStream out = new ObjectOutputStream(fileOut)) {
             out.writeObject(message.getPayload());
         } catch (IOException e) {
