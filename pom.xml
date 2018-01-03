@@ -89,6 +89,8 @@
         <module>calculator</module>
         <module>repository</module>
         <module>benchmarks</module>
+		<module>bigdecimals</module>
+        <module>producerconsumer</module>
         <!-- add here any other modules -->
 	</modules>
 

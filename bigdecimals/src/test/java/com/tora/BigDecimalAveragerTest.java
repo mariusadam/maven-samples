@@ -1,5 +1,6 @@
 package com.tora;
 
+import com.tora.bigdecimal.function.BigDecimalAverager;
 import junit.framework.TestCase;
 
 import java.math.BigDecimal;

@@ -1,5 +1,6 @@
 package com.tora;
 
+import com.tora.bigdecimal.function.BigDecimalAdder;
 import junit.framework.TestCase;
 
 import java.math.BigDecimal;
